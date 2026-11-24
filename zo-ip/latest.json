@@ -1,1 +1,1 @@
-{"version": "1.2.0", "url": "https://zoom-out.co.il/zo-ip/", "url_en": "https://zoom-out.co.il/zo-ip/en/", "notes": "Every network is now easy to read. Click one to show it large.", "notes_he": "כל הרשתות קריאות, ולחיצה על רשת מציגה אותה בגדול."}
+{"version": "1.3.0", "url": "https://zoom-out.co.il/zo-ip/", "url_en": "https://zoom-out.co.il/zo-ip/en/", "notes": "Warns when the network gives no address (169.254), and shows whether the router answers.", "notes_he": "אזהרה כשלא התקבלה כתובת מהרשת (169.254), ובדיקה שהראוטר עונה."}
